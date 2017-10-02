@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CurrencyConverter.iml" filepath="$PROJECT_DIR$/.idea/modules/CurrencyConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CurrencyConverter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CurrencyConverter_main.iml" group="CurrencyConverter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CurrencyConverter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CurrencyConverter_test.iml" group="CurrencyConverter" />
+    </modules>
+  </component>
+</project>
